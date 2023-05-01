@@ -1,0 +1,71 @@
+    [
+      {
+        "name": "Tony Khan",
+        "image_url": "https://example.com/tony_khan.jpg",
+        "details": "Founder of the Tony Khan Culinary Institute and an expert in traditional Bengali cuisine.",
+        "years_of_experience": 20,
+        "rating": 4.8,
+        "like": 5000,
+        "cooking_method": ["Bengali", "Indian", "Continental"],
+        "ingredients": ["Fish", "Spices", "Herbs"],
+        "num_recipes": 75
+      },
+      {
+        "name": "Tommy Miah",
+        "image_url": "https://example.com/tommy_miah.jpg",
+        "details": "Owner of the Raj Hotel and an international Indian Chef with over 30 years of experience.",
+        "years_of_experience": 30,
+        "rating": 4.5,
+        "like": 4000,
+        "cooking_method": ["Indian", "Bangladeshi", "Continental"],
+        "ingredients": ["Rice", "Spices", "Curry"],
+        "num_recipes": 100
+      },
+      {
+        "name": "Shahed Mahmood",
+        "image_url": "https://example.com/shahed_mahmood.jpg",
+        "details": "Founder of 'Lifestyle Chef' and Author of several cookbooks, specializing in fusion cuisine.",
+        "years_of_experience": 15,
+        "rating": 4.2,
+        "like": 3500,
+        "cooking_method": ["Fusion", "Asian", "International"],
+        "ingredients": ["Noodles", "Soy Sauce", "Ginger"],
+        "num_recipes": 50
+      },
+      {
+        "name": "Shawkat Osman",
+        "image_url": "https://example.com/shawkat_osman.jpg",
+        "details": "Executive Chef at Le Méridien Dhaka and an expert in French and Italian cuisine.",
+        "years_of_experience": 25,
+        "rating": 4.7,
+        "like": 4500,
+        "cooking_method": ["French", "Italian", "Continental"],
+        "ingredients": ["Butter", "Cheese", "Pasta"],
+        "num_recipes": 80
+      },
+      {
+        "name": "Rizwana Hasan",
+        "image_url": "https://example.com/rizwana_hasan.jpg",
+        "details": "Executive Chef at Dhaka Regency Hotel and Resort and a specialist in Mediterranean and Middle Eastern cuisine.",
+        "years_of_experience": 18,
+        "rating": 4.4,
+        "like": 3800,
+        "cooking_method": ["Mediterranean", "Middle Eastern", "Continental"],
+        "ingredients": ["Olive Oil", "Chickpeas", "Lamb"],
+        "num_recipes": 60
+      },
+      {
+        "name": "Munir Ahmed",
+        "image_url": "https://example.com/munir_ahmed.jpg",
+        "details": "Owner of Cafe Mango and a Chef consultant, known for his expertise in Thai and Southeast Asian cuisine.",
+        "years_of_experience": 12,
+        "rating": 4.3,
+        "like": 4000,
+        "cooking_method": ["Mediterranean", "Middle Eastern", "Continental"],
+        "ingredients": ["Butter", "Cheese", "Pasta"],
+        "num_recipes": 60
+      }
+    ]
+
+
+  
