@@ -1,7 +1,8 @@
     [
       {
+        "_id": "1",
         "name": "Tony Khan",
-        "image_url": "https://example.com/tony_khan.jpg",
+        "image_url": "https://i.ibb.co/447VgLX/tony.jpg",
         "details": "Founder of the Tony Khan Culinary Institute and an expert in traditional Bengali cuisine.",
         "years_of_experience": 20,
         "rating": 4.8,
@@ -11,8 +12,9 @@
         "num_recipes": 75
       },
       {
+        "_id": "2",
         "name": "Tommy Miah",
-        "image_url": "https://example.com/tommy_miah.jpg",
+        "image_url": "https://i.ibb.co/126YyLJ/tommy.jpg",
         "details": "Owner of the Raj Hotel and an international Indian Chef with over 30 years of experience.",
         "years_of_experience": 30,
         "rating": 4.5,
@@ -22,8 +24,9 @@
         "num_recipes": 100
       },
       {
+        "_id": "3",
         "name": "Shahed Mahmood",
-        "image_url": "https://example.com/shahed_mahmood.jpg",
+        "image_url": "https://i.ibb.co/tDVLWW7/shahed.jpg",
         "details": "Founder of 'Lifestyle Chef' and Author of several cookbooks, specializing in fusion cuisine.",
         "years_of_experience": 15,
         "rating": 4.2,
@@ -33,8 +36,9 @@
         "num_recipes": 50
       },
       {
+        "_id": "4",
         "name": "Shawkat Osman",
-        "image_url": "https://example.com/shawkat_osman.jpg",
+        "image_url": "https://i.ibb.co/j53Qy6Q/showkat.jpg",
         "details": "Executive Chef at Le Méridien Dhaka and an expert in French and Italian cuisine.",
         "years_of_experience": 25,
         "rating": 4.7,
@@ -44,8 +48,9 @@
         "num_recipes": 80
       },
       {
+        "_id": "5",
         "name": "Rizwana Hasan",
-        "image_url": "https://example.com/rizwana_hasan.jpg",
+        "image_url": "https://i.ibb.co/m4yQGLT/rizwara.jpg",
         "details": "Executive Chef at Dhaka Regency Hotel and Resort and a specialist in Mediterranean and Middle Eastern cuisine.",
         "years_of_experience": 18,
         "rating": 4.4,
@@ -55,8 +60,9 @@
         "num_recipes": 60
       },
       {
+        "_id": "6",
         "name": "Munir Ahmed",
-        "image_url": "https://example.com/munir_ahmed.jpg",
+        "image_url": "https://i.ibb.co/Kj2tCBy/monir.jpg",
         "details": "Owner of Cafe Mango and a Chef consultant, known for his expertise in Thai and Southeast Asian cuisine.",
         "years_of_experience": 12,
         "rating": 4.3,

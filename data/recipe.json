@@ -1,0 +1,58 @@
+    [
+      {
+        "recipe_name": "Bengali Fish Curry",
+        "ingredients": ["Fish", "Potatoes", "Tomatoes", "Mustard Oil", "Spices"],
+        "cooking_method": ["Bengali"],
+        "rating": {
+          "stars": 4.5,
+          "reviews": 120
+        }
+      },
+      {
+        "recipe_name": "Chicken Biryani",
+        "ingredients": ["Chicken", "Rice", "Spices", "Onions", "Tomatoes"],
+        "cooking_method": ["Indian"],
+        "rating": {
+          "stars": 4.8,
+          "reviews": 200
+        }
+      },
+      {
+        "recipe_name": "Pasta Carbonara",
+        "ingredients": ["Pasta", "Bacon", "Egg Yolks", "Parmesan Cheese", "Garlic"],
+        "cooking_method": ["Italian"],
+        "rating": {
+          "stars": 4.3,
+          "reviews": 90
+        }
+      },
+      {
+        "recipe_name": "Spicy Thai Basil Chicken",
+        "ingredients": ["Chicken", "Thai Basil", "Bell Peppers", "Garlic", "Chili Paste"],
+        "cooking_method": ["Thai"],
+        "rating": {
+          "stars": 4.6,
+          "reviews": 150
+        }
+      },
+      {
+        "recipe_name": "Beef Stroganoff",
+        "ingredients": ["Beef", "Mushrooms", "Onions", "Sour Cream", "Paprika"],
+        "cooking_method": ["Russian"],
+        "rating": {
+          "stars": 4.2,
+          "reviews": 80
+        }
+      },
+      {
+        "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
+        "ingredients": ["Salmon", "Lemon", "Butter", "Garlic", "Herbs"],
+        "cooking_method": ["Grilled"],
+        "rating": {
+          "stars": 4.7,
+          "reviews": 180
+        }
+      }
+    ]
+
+  

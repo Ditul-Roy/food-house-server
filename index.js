@@ -13,6 +13,11 @@ app.get('/', (req, res) =>{
 app.get('/chef', (req, res) =>{
     res.send(chef)
 })
+app.get('/chef/:id', (req,res) =>{
+   const id = req.params.id;
+   const chefId = chef.find(c=> c._id === id);
+   res.send(chefId)
+})
 
 app.listen(port, () => {
     console.log(`your server port is ${port}`);
