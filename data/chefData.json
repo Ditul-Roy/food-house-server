@@ -7,8 +7,9 @@
         "years_of_experience": 20,
         "rating": 4.8,
         "like": 5000,
-        "cooking_method": ["Bengali", "Indian", "Continental"],
-        "ingredients": ["Fish", "Spices", "Herbs"],
+        "recipe_name": "Bengali Fish Curry",
+        "ingredients": ["Fish", "Potatoes", "Tomatoes", "Mustard Oil", "Spices"],
+        "cooking_method": "Bengali",
         "num_recipes": 75
       },
       {
@@ -19,8 +20,9 @@
         "years_of_experience": 30,
         "rating": 4.5,
         "like": 4000,
-        "cooking_method": ["Indian", "Bangladeshi", "Continental"],
-        "ingredients": ["Rice", "Spices", "Curry"],
+        "recipe_name": "Chicken Biryani",
+        "ingredients": ["Chicken", "Rice", "Spices", "Onions", "Tomatoes"],
+        "cooking_method": "Indian",
         "num_recipes": 100
       },
       {
@@ -31,8 +33,9 @@
         "years_of_experience": 15,
         "rating": 4.2,
         "like": 3500,
-        "cooking_method": ["Fusion", "Asian", "International"],
-        "ingredients": ["Noodles", "Soy Sauce", "Ginger"],
+        "recipe_name": "Spicy Thai Basil Chicken",
+        "ingredients": ["Chicken", "Thai Basil", "Bell Peppers", "Garlic", "Chili Paste"],
+        "cooking_method": "Thai",
         "num_recipes": 50
       },
       {
@@ -43,8 +46,9 @@
         "years_of_experience": 25,
         "rating": 4.7,
         "like": 4500,
-        "cooking_method": ["French", "Italian", "Continental"],
-        "ingredients": ["Butter", "Cheese", "Pasta"],
+        "recipe_name": "Pasta Carbonara",
+        "ingredients": ["Pasta", "Bacon", "Egg Yolks", "Parmesan Cheese", "Garlic"],
+        "cooking_method": "Italian",
         "num_recipes": 80
       },
       {
@@ -55,8 +59,9 @@
         "years_of_experience": 18,
         "rating": 4.4,
         "like": 3800,
-        "cooking_method": ["Mediterranean", "Middle Eastern", "Continental"],
-        "ingredients": ["Olive Oil", "Chickpeas", "Lamb"],
+        "recipe_name": "Beef Stroganoff",
+        "ingredients": ["Beef", "Mushrooms", "Onions", "Sour Cream", "Paprika"],
+        "cooking_method": "Russian",
         "num_recipes": 60
       },
       {
@@ -67,8 +72,9 @@
         "years_of_experience": 12,
         "rating": 4.3,
         "like": 4000,
-        "cooking_method": ["Mediterranean", "Middle Eastern", "Continental"],
-        "ingredients": ["Butter", "Cheese", "Pasta"],
+        "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
+        "ingredients": ["Salmon", "Lemon", "Butter", "Garlic", "Herbs"],
+        "cooking_method": "Grilled",
         "num_recipes": 60
       }
     ]
