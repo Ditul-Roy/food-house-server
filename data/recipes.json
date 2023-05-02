@@ -1,6 +1,7 @@
 [
     {
-        "recipe_id": "1",
+        "id": "1",
+        "recipe_id": "BD001",
         "recipe_name": "Bengali Fish Curry",
         "image_url": "https://i.ibb.co/WcJ1C85/fish.jpg",
         "ingredients": [
@@ -17,7 +18,8 @@
         }
     },
     {
-        "recipe_id": "1",
+        "id": "2",
+        "recipe_id": "BD001",
         "recipe_name": "Chicken Biryani",
         "image_url": "https://i.ibb.co/JFx9Kqr/biriany.jpg",
         "ingredients": [
@@ -34,7 +36,8 @@
         }
     },
     {
-        "recipe_id": "2",
+        "id": "3",
+        "recipe_id": "BD002",
         "recipe_name": "Pasta Carbonara",
         "image_url": "https://i.ibb.co/BjnNHxn/pasta.jpg",
         "ingredients": [
@@ -51,7 +54,8 @@
         }
     },
     {
-        "recipe_id": "2",
+        "id": "4",
+        "recipe_id": "BD002",
         "recipe_name": "Spicy Thai Basil Chicken",
         "image_url": "https://i.ibb.co/zSbLrSp/chichen.jpg",
         "ingredients": [
@@ -68,7 +72,8 @@
         }
     },
     {
-        "recipe_id": "1",
+        "id": "5",
+        "recipe_id": "BD001",
         "recipe_name": "Beef Stroganoff",
         "image_url": "https://i.ibb.co/qpbffrL/beef.jpg",
         "ingredients": [
@@ -85,7 +90,8 @@
         }
     },
     {
-        "recipe_id": "3",
+        "id": "6",
+        "recipe_id": "BD003",
         "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
         "image_url": "https://i.ibb.co/61Vtxrz/rost.jpg",
         "ingredients": [
@@ -102,8 +108,9 @@
         }
     },
     {
-        "recipe_id": "4",
-        "recipe_name": "Shakshuka",
+        "id": "7",
+        "recipe_id": "BD004",
+        "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
         "image_url": "https://i.ibb.co/qpbffrL/beef.jpg",
         "ingredients": [
             "Eggs",
@@ -112,15 +119,16 @@
             "Onions",
             "Garlic"
         ],
-        "cooking_method": "Shakshuka is a flavorful and hearty dish that originated in North Africa and is now popular all over the Middle East and beyond. It features a base of sautéed onions, peppers, and garlic, which is then simmered with tomatoes and spices such as cumin...",
+        "cooking_method": "Grilled Salmon with Lemon Butter Sauce is a delicious and healthy dish that is perfect for any occasion. The dish features fresh salmon fillets that are marinated in a blend of olive oil, lemon juice, garlic, and herbs before being grilled to perfection. The dish is then topped with a luscious and tangy lemon..",
         "rating": {
             "stars": 4.4,
             "reviews": 100
         }
     },
     {
-        "recipe_id": "5",
-        "recipe_name": "Korean BBQ Beef Bulgogi",
+        "id": "8",
+        "recipe_id": "BD005",
+        "recipe_name": "Classic Caesar Salad",
         "image_url": "https://i.ibb.co/BjnNHxn/pasta.jpg",
         "ingredients": [
             "Beef",
@@ -129,14 +137,15 @@
             "Honey",
             "Garlic"
         ],
-        "cooking_method": "Korean BBQ Beef Bulgogi is a mouth-watering dish that is a staple in Korean cuisine. The dish features thinly sliced beef that is marinated in a sweet and savory sauce made from soy sauce, brown sugar, garlic, and sesame oil....",
+        "cooking_method": "A classic Caesar salad is a simple but delicious dish that can be enjoyed as a side or a main course. The salad starts with a base of fresh romaine lettuce, which is torn or chopped into bite-sized pieces. The lettuce is then topped with crunchy croutons and grated Parmesan cheese for texture and flavor.",
         "rating": {
             "stars": 4.9,
             "reviews": 250
         }
     },
     {
-        "recipe_id": "3",
+        "id": "9",
+        "recipe_id": "BD003",
         "recipe_name": "Classic Caesar Salad",
         "image_url": "https://i.ibb.co/zGmf2tZ/backer.jpg",
         "ingredients": [
@@ -153,7 +162,8 @@
         }
     },
     {
-        "recipe_id": "3",
+        "id": "10",
+        "recipe_id": "BD003",
         "recipe_name": "Spicy Chicken Curry",
         "image_url": "https://i.ibb.co/zSbLrSp/chichen.jpg",
         "ingredients": [
@@ -174,7 +184,8 @@
         }
     },
     {
-        "recipe_id": "5",
+        "id": "11",
+        "recipe_id": "BD005",
         "recipe_name": "Homemade Pizza",
         "image_url": "https://i.ibb.co/VLTQX0C/pizza.jpg",
         "ingredients": [
@@ -192,7 +203,8 @@
         }
     },
     {
-        "recipe_id": "6",
+        "id": "12",
+        "recipe_id": "BD006",
         "recipe_name": "Creamy Garlic Mashed Potatoes",
         "image_url": "https://i.ibb.co/rkktvpb/creamy.jpg",
         "ingredients": [
@@ -210,7 +222,8 @@
         }
     },
     {
-        "recipe_id": "6",
+        "id": "13",
+        "recipe_id": "BD006",
         "recipe_name": "Beef and Broccoli Stir Fry",
         "image_url": "https://i.ibb.co/qpbffrL/beef.jpg",
         "ingredients": [
@@ -231,7 +244,8 @@
         }
     },
     {
-        "recipe_id": "4",
+        "id": "14",
+        "recipe_id": "BD004",
         "recipe_name": "Roasted Brussel Sprouts",
         "image_url": "https://i.ibb.co/61Vtxrz/rost.jpg",
         "ingredients": [
@@ -248,7 +262,8 @@
         }
     },
     {
-        "recipe_id": "6",
+        "id": "15",
+        "recipe_id": "BD006",
         "recipe_name": "Pesto Pasta",
         "image_url": "https://i.ibb.co/BjnNHxn/pasta.jpg",
         "ingredients": [
@@ -269,7 +284,8 @@
     },
  
     {
-        "recipe_id": "4",
+        "id": "16",
+        "recipe_id": "BD004",
         "recipe_name": "Classic Spaghetti Carbonara",
         "image_url": "https://i.ibb.co/Btkg1rq/classic.jpg",
         "ingredients": [
@@ -286,7 +302,8 @@
         }
     },
     {
-        "recipe_id": "5",
+        "id": "17",
+        "recipe_id": "BD005",
         "recipe_name": "Baked Salmon with Garlic and Lemon",
         "image_url": "https://i.ibb.co/zGmf2tZ/backer.jpg",
         "ingredients": [
@@ -305,7 +322,8 @@
     },
 
     {
-        "recipe_id": "2",
+        "id": "18",
+        "recipe_id": "BD002",
         "recipe_name": "Chicken Fajitas",
         "image_url": "https://i.ibb.co/zGmf2tZ/backer.jpg",
         "ingredients": [
