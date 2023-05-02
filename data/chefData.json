@@ -7,9 +7,7 @@
         "years_of_experience": 20,
         "rating": 4.8,
         "like": 5000,
-        "recipe_name": "Bengali Fish Curry",
-        "ingredients": ["Fish", "Potatoes", "Tomatoes", "Mustard Oil", "Spices"],
-        "cooking_method": "Bengali",
+        "recipe_id": "1",
         "num_recipes": 75
       },
       {
@@ -20,9 +18,7 @@
         "years_of_experience": 30,
         "rating": 4.5,
         "like": 4000,
-        "recipe_name": "Chicken Biryani",
-        "ingredients": ["Chicken", "Rice", "Spices", "Onions", "Tomatoes"],
-        "cooking_method": "Indian",
+        "recipe_id": "2",
         "num_recipes": 100
       },
       {
@@ -33,9 +29,7 @@
         "years_of_experience": 15,
         "rating": 4.2,
         "like": 3500,
-        "recipe_name": "Spicy Thai Basil Chicken",
-        "ingredients": ["Chicken", "Thai Basil", "Bell Peppers", "Garlic", "Chili Paste"],
-        "cooking_method": "Thai",
+        "recipe_id": "3",
         "num_recipes": 50
       },
       {
@@ -46,9 +40,7 @@
         "years_of_experience": 25,
         "rating": 4.7,
         "like": 4500,
-        "recipe_name": "Pasta Carbonara",
-        "ingredients": ["Pasta", "Bacon", "Egg Yolks", "Parmesan Cheese", "Garlic"],
-        "cooking_method": "Italian",
+        "recipe_id": "4",
         "num_recipes": 80
       },
       {
@@ -59,9 +51,7 @@
         "years_of_experience": 18,
         "rating": 4.4,
         "like": 3800,
-        "recipe_name": "Beef Stroganoff",
-        "ingredients": ["Beef", "Mushrooms", "Onions", "Sour Cream", "Paprika"],
-        "cooking_method": "Russian",
+        "recipe_id": "5",
         "num_recipes": 60
       },
       {
@@ -72,9 +62,7 @@
         "years_of_experience": 12,
         "rating": 4.3,
         "like": 4000,
-        "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
-        "ingredients": ["Salmon", "Lemon", "Butter", "Garlic", "Herbs"],
-        "cooking_method": "Grilled",
+        "recipe_id": "6",
         "num_recipes": 60
       }
     ]

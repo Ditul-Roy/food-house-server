@@ -1,0 +1,309 @@
+[
+    {
+        "recipe_id": "1",
+        "recipe_name": "Bengali Fish Curry",
+        "ingredients": [
+            "Fish",
+            "Potatoes",
+            "Tomatoes",
+            "Mustard Oil",
+            "Spices"
+        ],
+        "cooking_method":"Bengali Fish Curry, also known as Macher Jhol in Bengali, is a delicious and traditional dish from the eastern region of India. This dish is typically made with freshwater fish, such as Rohu or Catla, and is cooked in a tomato-based gravy with a variety of spices and herbs. The key to making a flavorful Bengali Fish Curry is to use freshly ground spices",
+        "rating": {
+            "stars": 4.5,
+            "reviews": 120
+        }
+    },
+    {
+        "recipe_id": "1",
+        "recipe_name": "Chicken Biryani",
+        "ingredients": [
+            "Chicken",
+            "Rice",
+            "Spices",
+            "Onions",
+            "Tomatoes"
+        ],
+        "cooking_method": "Chicken Biryani is a popular and mouth-watering rice dish that originated in the Indian subcontinent. It's made with long-grain basmati rice, fragrant spices, and tender pieces of chicken that are marinated in a yogurt-based marinade.",
+        "rating": {
+            "stars": 4.8,
+            "reviews": 200
+        }
+    },
+    {
+        "recipe_id": "2",
+        "recipe_name": "Pasta Carbonara",
+        "ingredients": [
+            "Pasta",
+            "Bacon",
+            "Egg Yolks",
+            "Parmesan Cheese",
+            "Garlic"
+        ],
+        "cooking_method": "Pasta Carbonara is a classic Italian dish that is loved by people all around the world. This dish features spaghetti pasta that is tossed with a creamy sauce made from eggs, Parmesan cheese, and bacon. The richness of the sauce is balanced with a touch of garlic, black pepper, and parsley, creating a....",
+        "rating": {
+            "stars": 4.3,
+            "reviews": 90
+        }
+    },
+    {
+        "recipe_id": "2",
+        "recipe_name": "Spicy Thai Basil Chicken",
+        "ingredients": [
+            "Chicken",
+            "Thai Basil",
+            "Bell Peppers",
+            "Garlic",
+            "Chili Paste"
+        ],
+        "cooking_method": "Spicy Thai Basil Chicken, also known as Pad Krapow Gai,is a delicious and aromatic dish that hails from Thailand. The dish features stir-fried chicken that is cooked with fresh basil leaves, garlic, chili peppers, and a savory sauce made from soy sauce, oyster sauce, and fish sauce. This dish is known for its bold and spicy flavors that....",
+        "rating": {
+            "stars": 4.6,
+            "reviews": 150
+        }
+    },
+    {
+        "recipe_id": "1",
+        "recipe_name": "Beef Stroganoff",
+        "ingredients": [
+            "Beef",
+            "Mushrooms",
+            "Onions",
+            "Sour Cream",
+            "Paprika"
+        ],
+        "cooking_method": "eef Stroganoff is a classic Russian dish that has become a favorite all over the world. It features tender strips of beef that are cooked in a rich and creamy sauce made from sour cream, beef broth, and spices..... ",
+        "rating": {
+            "stars": 4.2,
+            "reviews": 80
+        }
+    },
+    {
+        "recipe_id": "3",
+        "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
+        "ingredients": [
+            "Salmon",
+            "Lemon",
+            "Butter",
+            "Garlic",
+            "Herbs"
+        ],
+        "cooking_method": [
+            "Grilled"
+        ],
+        "rating": {
+            "stars": 4.7,
+            "reviews": 180
+        }
+    },
+    {
+        "recipe_id": "4",
+        "recipe_name": "Shakshuka",
+        "ingredients": [
+            "Eggs",
+            "Tomatoes",
+            "Bell Peppers",
+            "Onions",
+            "Garlic"
+        ],
+        "cooking_method": "Shakshuka is a flavorful and hearty dish that originated in North Africa and is now popular all over the Middle East and beyond. It features a base of sautéed onions, peppers, and garlic, which is then simmered with tomatoes and spices such as cumin...",
+        "rating": {
+            "stars": 4.4,
+            "reviews": 100
+        }
+    },
+    {
+        "recipe_id": "5",
+        "recipe_name": "Korean BBQ Beef Bulgogi",
+        "ingredients": [
+            "Beef",
+            "Soy Sauce",
+            "Sesame Oil",
+            "Honey",
+            "Garlic"
+        ],
+        "cooking_method": "Korean BBQ Beef Bulgogi is a mouth-watering dish that is a staple in Korean cuisine. The dish features thinly sliced beef that is marinated in a sweet and savory sauce made from soy sauce, brown sugar, garlic, and sesame oil....",
+        "rating": {
+            "stars": 4.9,
+            "reviews": 250
+        }
+    },
+    {
+        "recipe_id": "3",
+        "recipe_name": "Classic Caesar Salad",
+        "ingredients": [
+            "Romaine Lettuce",
+            "Croutons",
+            "Parmesan Cheese",
+            "Caesar Dressing",
+            "Lemon"
+        ],
+        "cooking_method": "A classic Caesar salad is a simple but delicious dish that can be enjoyed as a side or a main course. The salad starts with a base of fresh romaine lettuce, which is torn or chopped into bite-sized pieces. The lettuce is then topped with crunchy croutons and grated Parmesan cheese for texture and flavor.",
+        "rating": {
+            "stars": 4.3,
+            "reviews": 180
+        }
+    },
+    {
+        "recipe_id": "3",
+        "recipe_name": "Spicy Chicken Curry",
+        "ingredients": [
+            "chicken breasts",
+            "curry powder",
+            "coconut milk",
+            "onion",
+            "garlic",
+            "ginger",
+            "chili flakes",
+            "salt",
+            "pepper"
+        ],
+        "cooking_method": "Heat oil in a large skillet, add chopped onions, garlic, and ginger, cook until fragrant. Add curry powder, chili flakes, and chicken, cook until the chicken is no longer pink. Pour in coconut milk, let it simmer until the chicken is fully cooked. Season with salt and pepper to taste.",
+        "rating": {
+            "stars": 4.4,
+            "reviews": 180
+        }
+    },
+    {
+        "recipe_id": "5",
+        "recipe_name": "Homemade Pizza",
+        "ingredients": [
+            "flour",
+            "yeast",
+            "water",
+            "tomato sauce",
+            "mozzarella cheese",
+            "toppings of choice"
+        ],
+        "cooking_method": "Mix flour, yeast, and water in a bowl, knead the dough until smooth. Let it rise for an hour, then roll it out to your desired thickness. Spread tomato sauce, cheese, and toppings of your choice on top. Bake in the oven at 450°F for 10-15 minutes.",
+        "rating": {
+            "stars": 4.7,
+            "reviews": 180
+        }
+    },
+    {
+        "recipe_id": "6",
+        "recipe_name": "Creamy Garlic Mashed Potatoes",
+        "ingredients": [
+            "potatoes",
+            "butter",
+            "garlic",
+            "heavy cream",
+            "salt",
+            "pepper"
+        ],
+        "cooking_method": "Boil peeled potatoes in salted water until they're tender. Melt butter in a saucepan and add minced garlic, cook until fragrant. Mash the potatoes and add the garlic butter, heavy cream, salt, and pepper. Mix until creamy.",
+        "rating": {
+            "stars": 4.6,
+            "reviews": 180
+        }
+    },
+    {
+        "recipe_id": "6",
+        "recipe_name": "Beef and Broccoli Stir Fry",
+        "ingredients": [
+            "beef sirloin",
+            "broccoli",
+            "soy sauce",
+            "oyster sauce",
+            "garlic",
+            "ginger",
+            "cornstarch",
+            "water",
+            "rice"
+        ],
+        "cooking_method": "Slice beef into thin strips, mix with cornstarch and soy sauce. Heat oil in a wok, stir fry the beef until browned. Add minced garlic, ginger, and broccoli, cook until tender. Mix oyster sauce and water, pour over the beef and broccoli, let it simmer until the sauce thickens. Serve with rice.",
+        "rating": {
+            "stars": 4.8,
+            "reviews": 180
+        }
+    },
+    {
+        "recipe_id": "4",
+        "recipe_name": "Roasted Brussel Sprouts",
+        "ingredients": [
+            "Brussel sprouts",
+            "olive oil",
+            "garlic",
+            "salt",
+            "pepper"
+        ],
+        "cooking_method": "Preheat oven to 400°F. Cut off the stems of the Brussel sprouts and cut them in half. Toss them with olive oil, minced garlic, salt, and pepper. Spread them out on a baking sheet and roast for 20-25 minutes, or until crispy and tender.",
+        "rating": {
+            "stars": 4.7,
+            "reviews": 180
+        }
+    },
+    {
+        "recipe_id": "6",
+        "recipe_name": "Pesto Pasta",
+        "ingredients": [
+            "pasta",
+            "basil",
+            "pine nuts",
+            "garlic",
+            "parmesan cheese",
+            "olive oil",
+            "salt",
+            "pepper"
+        ],
+        "cooking_method": "Cooking pasta is a simple process that can yield delicious results. To begin, fill a large pot with water and bring it to a boil. The general rule of thumb is to use 4 to 6 quarts of water for every pound of pasta you plan to cook. Once the water has reached a rolling boil, add a generous amount of salt to the pot. This will not only help to flavor the pasta, but it will also enhance the texture. It's recommended to add about 1 to 2 tablespoons of salt for every 4 to 6 quarts of water",
+        "rating": {
+            "stars": 4.7,
+            "reviews": 180
+        }
+    },
+ 
+    {
+        "recipe_id": "4",
+        "recipe_name": "Classic Spaghetti Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "eggs",
+            "bacon",
+            "parmesan cheese",
+            "black pepper"
+        ],
+        "cooking_method": "Boil spaghetti until al dente, cook bacon until crispy, whisk together eggs and parmesan cheese, then toss the cooked spaghetti with the bacon and egg mixture. Add black pepper to taste.",
+        "rating": {
+            "stars": 4.6,
+            "reviews": 180
+        }
+    },
+    {
+        "recipe_id": "5",
+        "recipe_name": "Baked Salmon with Garlic and Lemon",
+        "ingredients": [
+            "salmon fillets",
+            "garlic",
+            "lemon",
+            "olive oil",
+            "salt",
+            "pepper"
+        ],
+        "cooking_method": "Preheat oven to 400°F. Rub salmon fillets with garlic and drizzle with olive oil. Squeeze lemon juice over the top and season with salt and pepper. Bake for 12-15 minutes, or until salmon is cooked through.",
+        "rating": {
+            "stars": 4.5,
+            "reviews": 180
+        }
+    },
+
+    {
+        "recipe_id": "2",
+        "recipe_name": "Chicken Fajitas",
+        "ingredients": [
+            "chicken breasts",
+            "bell peppers",
+            "onion",
+            "lime",
+            "taco seasoning",
+            "flour tortillas"
+        ],
+        "cooking_method": "Season chicken with taco seasoning and cook in a skillet until no longer pink. Add sliced bell peppers and onions to the pan and cook until tender. Squeeze lime juice over the top and serve with warm flour tortillas.",
+        "rating": {
+            "stars": 4.2,
+            "reviews": 180
+        }
+    } 
+ ]
