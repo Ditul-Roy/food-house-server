@@ -87,7 +87,7 @@
     {
         "recipe_id": "3",
         "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
-        "image_url": "https://i.ibb.co/zGmf2tZ/backer.jpg",
+        "image_url": "https://i.ibb.co/61Vtxrz/rost.jpg",
         "ingredients": [
             "Salmon",
             "Lemon",
@@ -95,9 +95,7 @@
             "Garlic",
             "Herbs"
         ],
-        "cooking_method": [
-            "Grilled"
-        ],
+        "cooking_method": "Grilled Salmon with Lemon Butter Sauce is a delicious and healthy dish that is perfect for any occasion. The dish features fresh salmon fillets that are marinated in a blend of olive oil, lemon juice, garlic, and herbs before being grilled to perfection. The dish is then topped with a luscious and tangy lemon...",
         "rating": {
             "stars": 4.7,
             "reviews": 180
@@ -106,7 +104,7 @@
     {
         "recipe_id": "4",
         "recipe_name": "Shakshuka",
-        "image_url": "https://i.ibb.co/61Vtxrz/rost.jpg",
+        "image_url": "https://i.ibb.co/qpbffrL/beef.jpg",
         "ingredients": [
             "Eggs",
             "Tomatoes",
@@ -309,7 +307,7 @@
     {
         "recipe_id": "2",
         "recipe_name": "Chicken Fajitas",
-        "image_url": "https://i.ibb.co/zSbLrSp/chichen.jpg",
+        "image_url": "https://i.ibb.co/zGmf2tZ/backer.jpg",
         "ingredients": [
             "chicken breasts",
             "bell peppers",
