@@ -2,6 +2,7 @@
     {
         "recipe_id": "1",
         "recipe_name": "Bengali Fish Curry",
+        "image_url": "https://i.ibb.co/WcJ1C85/fish.jpg",
         "ingredients": [
             "Fish",
             "Potatoes",
@@ -18,6 +19,7 @@
     {
         "recipe_id": "1",
         "recipe_name": "Chicken Biryani",
+        "image_url": "https://i.ibb.co/JFx9Kqr/biriany.jpg",
         "ingredients": [
             "Chicken",
             "Rice",
@@ -34,6 +36,7 @@
     {
         "recipe_id": "2",
         "recipe_name": "Pasta Carbonara",
+        "image_url": "https://i.ibb.co/BjnNHxn/pasta.jpg",
         "ingredients": [
             "Pasta",
             "Bacon",
@@ -50,6 +53,7 @@
     {
         "recipe_id": "2",
         "recipe_name": "Spicy Thai Basil Chicken",
+        "image_url": "https://i.ibb.co/zSbLrSp/chichen.jpg",
         "ingredients": [
             "Chicken",
             "Thai Basil",
@@ -66,6 +70,7 @@
     {
         "recipe_id": "1",
         "recipe_name": "Beef Stroganoff",
+        "image_url": "https://i.ibb.co/qpbffrL/beef.jpg",
         "ingredients": [
             "Beef",
             "Mushrooms",
@@ -82,6 +87,7 @@
     {
         "recipe_id": "3",
         "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
+        "image_url": "https://i.ibb.co/zGmf2tZ/backer.jpg",
         "ingredients": [
             "Salmon",
             "Lemon",
@@ -100,6 +106,7 @@
     {
         "recipe_id": "4",
         "recipe_name": "Shakshuka",
+        "image_url": "https://i.ibb.co/61Vtxrz/rost.jpg",
         "ingredients": [
             "Eggs",
             "Tomatoes",
@@ -116,6 +123,7 @@
     {
         "recipe_id": "5",
         "recipe_name": "Korean BBQ Beef Bulgogi",
+        "image_url": "https://i.ibb.co/BjnNHxn/pasta.jpg",
         "ingredients": [
             "Beef",
             "Soy Sauce",
@@ -132,6 +140,7 @@
     {
         "recipe_id": "3",
         "recipe_name": "Classic Caesar Salad",
+        "image_url": "https://i.ibb.co/zGmf2tZ/backer.jpg",
         "ingredients": [
             "Romaine Lettuce",
             "Croutons",
@@ -148,6 +157,7 @@
     {
         "recipe_id": "3",
         "recipe_name": "Spicy Chicken Curry",
+        "image_url": "https://i.ibb.co/zSbLrSp/chichen.jpg",
         "ingredients": [
             "chicken breasts",
             "curry powder",
@@ -168,6 +178,7 @@
     {
         "recipe_id": "5",
         "recipe_name": "Homemade Pizza",
+        "image_url": "https://i.ibb.co/VLTQX0C/pizza.jpg",
         "ingredients": [
             "flour",
             "yeast",
@@ -185,6 +196,7 @@
     {
         "recipe_id": "6",
         "recipe_name": "Creamy Garlic Mashed Potatoes",
+        "image_url": "https://i.ibb.co/rkktvpb/creamy.jpg",
         "ingredients": [
             "potatoes",
             "butter",
@@ -202,6 +214,7 @@
     {
         "recipe_id": "6",
         "recipe_name": "Beef and Broccoli Stir Fry",
+        "image_url": "https://i.ibb.co/qpbffrL/beef.jpg",
         "ingredients": [
             "beef sirloin",
             "broccoli",
@@ -222,6 +235,7 @@
     {
         "recipe_id": "4",
         "recipe_name": "Roasted Brussel Sprouts",
+        "image_url": "https://i.ibb.co/61Vtxrz/rost.jpg",
         "ingredients": [
             "Brussel sprouts",
             "olive oil",
@@ -238,6 +252,7 @@
     {
         "recipe_id": "6",
         "recipe_name": "Pesto Pasta",
+        "image_url": "https://i.ibb.co/BjnNHxn/pasta.jpg",
         "ingredients": [
             "pasta",
             "basil",
@@ -258,6 +273,7 @@
     {
         "recipe_id": "4",
         "recipe_name": "Classic Spaghetti Carbonara",
+        "image_url": "https://i.ibb.co/Btkg1rq/classic.jpg",
         "ingredients": [
             "spaghetti",
             "eggs",
@@ -274,6 +290,7 @@
     {
         "recipe_id": "5",
         "recipe_name": "Baked Salmon with Garlic and Lemon",
+        "image_url": "https://i.ibb.co/zGmf2tZ/backer.jpg",
         "ingredients": [
             "salmon fillets",
             "garlic",
@@ -292,6 +309,7 @@
     {
         "recipe_id": "2",
         "recipe_name": "Chicken Fajitas",
+        "image_url": "https://i.ibb.co/zSbLrSp/chichen.jpg",
         "ingredients": [
             "chicken breasts",
             "bell peppers",
